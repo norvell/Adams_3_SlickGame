@@ -1,0 +1,4 @@
+1.  In My game you have to decide either to to juke or truck your defender
+2. It can be solved by going in a certain pattern
+3. I dont really know how you can track HP
+4. I dont know how to track items.
